@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\obj\Debug\net6.0\Siminar_3_DZ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\obj\Debug\net6.0\Siminar_3_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\obj\Debug\net6.0\Siminar_3_DZ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\obj\Debug\net6.0\Siminar_3_DZ.AssemblyInfo.cs
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\obj\Debug\net6.0\Siminar_3_DZ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\bin\Debug\net6.0\Siminar_3_DZ.exe
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\bin\Debug\net6.0\Siminar_3_DZ.deps.json
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\bin\Debug\net6.0\Siminar_3_DZ.runtimeconfig.json
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\bin\Debug\net6.0\Siminar_3_DZ.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\bin\Debug\net6.0\Siminar_3_DZ.pdb
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\obj\Debug\net6.0\Siminar_3_DZ.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\obj\Debug\net6.0\refint\Siminar_3_DZ.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\obj\Debug\net6.0\Siminar_3_DZ.pdb
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\obj\Debug\net6.0\Siminar_3_DZ.genruntimeconfig.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 3. С#\Siminar_3_DZ\obj\Debug\net6.0\ref\Siminar_3_DZ.dll
